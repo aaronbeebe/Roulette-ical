@@ -1,0 +1,42 @@
+name: Update ICS feed
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # daily at 09:00 UTC
+  workflow_dispatch:       # allow manual runs
+
+permissions:
+  contents: write          # needed to push changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 ics
+
+      - name: Ensure docs folder exists
+        run: mkdir -p docs
+
+      - name: Generate calendar
+        run: python generate_calendar.py
+
+      - name: Commit and push results (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain docs/ruha.ics)" ]]; then
+            git add docs/ruha.ics
+            git commit -m "Update ruha.ics"
+            git push
+          else
+            echo "No changes to commit."
+          fi

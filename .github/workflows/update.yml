@@ -1,12 +1,12 @@
-name: Update ICS feed
+name: Update ICS feed (Roulette)
 
 on:
   schedule:
     - cron: "0 9 * * *"   # daily at 09:00 UTC
-  workflow_dispatch:       # allow manual runs
+  workflow_dispatch:
 
 permissions:
-  contents: write          # needed to push changes
+  contents: write
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 ics
+        run: pip install requests beautifulsoup4 ics pytz
 
       - name: Ensure docs folder exists
         run: mkdir -p docs
@@ -32,10 +32,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          if [[ -n "$(git status --porcelain docs/ruha.ics)" ]]; then
-            git add docs/ruha.ics
-            git commit -m "Update ruha.ics"
+          if [[ -n "$(git status --porcelain docs/roulette.ics)" ]]; then
+            git add docs/roulette.ics
+            git commit -m "Update roulette.ics"
             git push
           else
             echo "No changes to commit."

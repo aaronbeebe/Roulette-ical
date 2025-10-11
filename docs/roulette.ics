@@ -7,7 +7,7 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251221T230000Z
 SUMMARY:Phill Niblock Winter Solstice 2025: 6 Hours of Music and Film
-UID:24044ee2-eb9c-47bf-8590-c43f385249f0@2404.org
+UID:2e0e992a-53e1-4fe4-8711-5028a5494b72@2e0e.org
 URL:https://roulette.org/event/phill-niblock-winter-solstice-2025/
 END:VEVENT
 BEGIN:VEVENT
@@ -16,8 +16,16 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251214T010000Z
 SUMMARY:FUJ||||||||||TA // John McCowen & Madison Greenstone
-UID:2e711b97-bbd3-40e7-8f08-4365e6820fd0@2e71.org
+UID:14172033-3f3c-4885-a6ab-4ffa567c7094@1417.org
 URL:https://roulette.org/event/fujta-john-mccowen-madison-greenstone/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251206T010000Z
+SUMMARY:Kit Fitzgerald – POSTPONED
+UID:c88ac843-ee40-4f81-9b1e-3d8c7294494e@c88a.org
+URL:https://roulette.org/event/kit-fitzgerald/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $30
@@ -25,132 +33,8 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251108T010000Z
 SUMMARY:Ghost Train Orchestra: Cities
-UID:c3c10460-f71f-4c2a-9527-364f639ac5cf@c3c1.org
+UID:49ce7864-e80c-46cb-9a42-13cfb07f3a26@49ce.org
 URL:https://roulette.org/event/ghost-train-orchestra-cities/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251208T010000Z
-SUMMARY:Sylvie Courvoisier with Mary Halvorson and Wadada Leo Smith
-UID:a06faa56-6cb9-4a13-8012-0a6afa6ca5ce@a06f.org
-URL:https://roulette.org/event/sylvie-courvoisier-with-mary-halvorson-and-wadada-leo-smith/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251121T010000Z
-SUMMARY:Music for Two Pianos: Bob + Blue\, A Tribute to Robert Ashley and “Blue” Gene Tyranny
-UID:cf013d60-60e9-4fb3-a0bc-635854c29cca@cf01.org
-URL:https://roulette.org/event/music-for-two-pianos-bob-and-blue/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251028T000000Z
-SUMMARY:Mivos Quartet Album Release
-UID:0c8bb47e-fcf1-4588-be36-8c2f3cb832fc@0c8b.org
-URL:https://roulette.org/event/mivos-quartet/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251207T010000Z
-SUMMARY:Hamid Al-Saadi and Amir ElSaffar New Quartet featuring Tania Giannouli
-UID:2699a6c1-619c-477c-b799-21e4ec3572b3@2699.org
-URL:https://roulette.org/event/maqam-records-amir-elsaffar-quartet-hamid-al-saadi/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $35
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251026T000000Z
-SUMMARY:Le Vent du Nord: Music of Quebec (RBA)
-UID:7e12ca72-045c-4320-9786-1aa5ded2be7f@7e12.org
-URL:https://roulette.org/event/le-vent-du-nord-music-of-quebec-rba/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251211T010000Z
-SUMMARY:Elliott Sharp: Feedback Book Launch & Duets with James Brandon Lewis
-UID:ef0118ec-3a9c-4a7e-b56e-2b16b09854d2@ef01.org
-URL:https://roulette.org/event/elliott-sharp-book-launch-with-james-brandon-lewis/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251011T180000Z
-SUMMARY:Triple Canopy Symposium 2025 (Day 2)
-UID:56e66eb5-ced9-4280-8335-45e21592edb1@56e6.org
-URL:https://roulette.org/event/triple-canopy-symposium-2025-2/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $35
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251025T000000Z
-SUMMARY:Kiran Ahluwalia Diwali Celebration (RBA)
-UID:65caee1e-d5c3-4e07-8717-3521e54eb55d@65ca.org
-URL:https://roulette.org/event/kiran-ahluwalia-rba/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251120T010000Z
-SUMMARY:Music for Two Pianos: Anthony Braxton’s Composition 95 by Ursula Oppens & Adam Tendler // Composition 38 by Darius Jones & Cecilia Lopez
-UID:8a3c778c-b8f0-420c-9032-9e00fc6e331a@8a3c.org
-URL:https://roulette.org/event/music-for-two-pianos-braxton-ursula-oppens-adam-tendler/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251018T000000Z
-SUMMARY:Brian Chase\, Lee Ranaldo & David Watson
-UID:736925b1-0ab7-493e-9a1c-b2e2a6dfa436@7369.org
-URL:https://roulette.org/event/brian-chase-lee-ranaldo-david-watson/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $20
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251024T000000Z
-SUMMARY:Interpretations: One System / J.D. Parran’s Protestation and Prayer for Peace and Survival
-UID:e2b32904-be58-4d3d-9e94-097d735ad628@e2b3.org
-URL:https://roulette.org/event/interpretations-series-fall-2025/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $45
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251115T010000Z
-SUMMARY:AACM NYC’s 60th Anniversary: Celebrating the Legacy of Dr. Muhal Richard Abrams (Night 1)
-UID:8172cdca-6ee6-4455-8667-8f0f74d0d0a4@8172.org
-URL:https://roulette.org/event/aacm-nycs-60th-anniversary-celebrating-the-legacy-of-dr-muhal-richard-abrams-night-1/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $35
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251031T000000Z
-SUMMARY:Mali Obomsawin Live Scores Sugarcane Screening
-UID:f0f8d3cb-c1a0-4451-8ada-f81dad7960f5@f0f8.org
-URL:https://roulette.org/event/mali-obomsawin-sugarcane/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251206T010000Z
-SUMMARY:Kit Fitzgerald – POSTPONED
-UID:a8e8c538-aaa7-416e-b781-396ad8856c48@a8e8.org
-URL:https://roulette.org/event/kit-fitzgerald/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $30
@@ -158,25 +42,8 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251102T000000Z
 SUMMARY:Oghlan Bakhshi: Journey Across the Steppes of Central Asia & Iran (RBA)
-UID:07e9eb96-0afe-43cb-bd99-fb185e1b33ca@07e9.org
+UID:44c0bd56-56b0-421e-b318-470f30f62611@44c0.org
 URL:https://roulette.org/event/oghlan-bakhshi-abdolghaffar-geldinejad-zyyada-jumayeva/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251106T010000Z
-SUMMARY:The Music of Anthony Braxton: Composition No. 101 // Syntactical Ghost Trance Music
-UID:b8cf5b7f-5f17-4e11-98e8-f5d76800320b@b8cf.org
-URL:https://roulette.org/event/the-music-of-anthony-braxton-101-gtm/
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251113T010000Z
-SUMMARY:The Music of Anthony Braxton: Concert and Reflections\, with Mary Halvorson and George Lewis
-UID:bcc36f9e-0a77-4ae5-8986-091faa0e335a@bcc3.org
-URL:https://roulette.org/event/the-music-of-anthony-braxton-with-mary-halvorson-and-george-lewis/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $45
@@ -184,71 +51,44 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251116T010000Z
 SUMMARY:AACM NYC’s 60th Anniversary: Celebrating the Legacy of Dr. Muhal Richard Abrams (Night 2)
-UID:404149a8-844e-43c5-ab81-acf68735d7d6@4041.org
+UID:2deee853-36a4-4c30-bb33-54536a6318bc@2dee.org
 URL:https://roulette.org/event/aacm-nycs-60th-anniversary-celebrating-the-legacy-of-dr-muhal-richard-abrams-night-2/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $45
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251115T010000Z
+SUMMARY:AACM NYC’s 60th Anniversary: Celebrating the Legacy of Dr. Muhal Richard Abrams (Night 1)
+UID:e0f2bd40-457c-4765-909e-7b1eb1767972@e0f2.org
+URL:https://roulette.org/event/aacm-nycs-60th-anniversary-celebrating-the-legacy-of-dr-muhal-richard-abrams-night-1/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $25
 DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251202T010000Z
-SUMMARY:Patricia Brennan: Of The Near and Far (Record Release Show)
-UID:a5b3d4d0-5403-4dfb-9404-e80f72f226bb@a5b3.org
-URL:https://roulette.org/event/patricia-brennan-of-the-near-and-far-record-release-show/
+DTSTART:20251211T010000Z
+SUMMARY:Elliott Sharp: Feedback Book Launch & Duets with James Brandon Lewis
+UID:127f1497-0f4b-4aa1-8a59-3d98730eff08@127f.org
+URL:https://roulette.org/event/elliott-sharp-book-launch-with-james-brandon-lewis/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $20
 DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251205T010000Z
-SUMMARY:Interpretations: Sam Weinberg Trio // Ghost Ensemble
-UID:40bea1f4-5ae2-4041-bddc-16c6211b3c76@40be.org
-URL:https://roulette.org/event/interpretations-sam-weinberg-trio-ghost-ensemble/
+DTSTART:20251024T000000Z
+SUMMARY:Interpretations: One System / J.D. Parran’s Protestation and Prayer for Peace and Survival
+UID:4af661fd-fb53-4f1b-9f24-183005b5f59c@4af6.org
+URL:https://roulette.org/event/interpretations-series-fall-2025/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $25
 DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251030T000000Z
-SUMMARY:The Rise of the Novel Performs Carter\, Eisenberg\, Lewis\, and Lockwood
-UID:2566474b-136c-4b4e-9437-1c9247782907@2566.org
-URL:https://roulette.org/event/the-rise-of-the-novel-performs-carter-eisenberg-lewis-and-lockwood/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251217T010000Z
-SUMMARY:Contemporary East: Kaoru Watanabe / Yoon-Ji Lee
-UID:8e38fdf8-83ba-4b90-928d-03b7a2c017f5@8e38.org
-URL:https://roulette.org/event/contemporary-east-kaoru-watanabe-yoon-ji-lee/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251219T010000Z
-SUMMARY:Webber/Morris Big Band
-UID:12f34f9c-16da-457c-b478-b44724f30431@12f3.org
-URL:https://roulette.org/event/webber-morris-big-band/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $30
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251014T000000Z
-SUMMARY:Natural Information Society (Album Release) // Kalia Vandever
-UID:ed93477e-9767-406a-aae5-65bc0c8b4ec5@ed93.org
-URL:https://roulette.org/event/natural-information-society-kalia-vandever/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tickets $25
-DURATION:PT2H
-LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251213T010000Z
-SUMMARY:Adam Rudolph’s Hu Vibrational: Vibe Ride
-UID:0d97ca84-b699-4142-902b-ef21fc64851b@0d97.org
-URL:https://roulette.org/event/adam-rudolph-hu-vibrational-vibe-ride/
+DTSTART:20251018T000000Z
+SUMMARY:Brian Chase\, Lee Ranaldo & David Watson
+UID:296fbd63-23f9-4206-b87b-068cc6cd9168@296f.org
+URL:https://roulette.org/event/brian-chase-lee-ranaldo-david-watson/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $25
@@ -256,17 +96,17 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251107T010000Z
 SUMMARY:Kelly Moran: Don’t Trust Mirrors
-UID:dd37f2f6-96c2-4000-86c0-04bb56792c76@dd37.org
+UID:558d9f07-768f-40a9-916a-8f350fab11f0@558d.org
 URL:https://roulette.org/event/kelly-moran-album-release/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $25
 DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
-DTSTART:20251123T010000Z
-SUMMARY:Music for Two Pianos: Jace Clayton’s The Julius Eastman Memorial Dinner
-UID:542b9ff5-3d33-4a45-b70b-d942c55552cc@542b.org
-URL:https://roulette.org/event/music-for-two-pianos-jace-clayton-julius-eastman/
+DTSTART:20251120T010000Z
+SUMMARY:Music for Two Pianos: Anthony Braxton’s Composition 95 by Ursula Oppens & Adam Tendler // Composition 38 by Darius Jones & Cecilia Lopez
+UID:26022590-c98c-4e0a-868e-5d82fa05585a@2602.org
+URL:https://roulette.org/event/music-for-two-pianos-braxton-ursula-oppens-adam-tendler/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tickets $25
@@ -274,7 +114,7 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251122T010000Z
 SUMMARY:Music for Two Pianos: The music of Henry Threadgill by Rahul Carlberg and Maya Keren
-UID:7521f706-f514-4786-82b9-6b916d5a09ad@7521.org
+UID:593abde5-b7ea-47df-b0c8-2a9e8f274659@593a.org
 URL:https://roulette.org/event/music-for-two-pianos-threadgill-carlberg-keren/
 END:VEVENT
 BEGIN:VEVENT
@@ -283,7 +123,177 @@ DURATION:PT2H
 LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
 DTSTART:20251105T000000Z
 SUMMARY:A Workshop on the Music of Anthony Braxton
-UID:df09f26f-1558-420f-9d2a-fe6273075a55@df09.org
+UID:01c7257c-40c5-4e94-b7f2-b1af635c9097@01c7.org
 URL:https://roulette.org/event/anthony-braxton-workshop/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251217T010000Z
+SUMMARY:Contemporary East: Kaoru Watanabe / Yoon-Ji Lee
+UID:b024e3ca-930a-4359-8267-9b63ad1514e8@b024.org
+URL:https://roulette.org/event/contemporary-east-kaoru-watanabe-yoon-ji-lee/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $35
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251025T000000Z
+SUMMARY:Kiran Ahluwalia Diwali Celebration (RBA)
+UID:8639b2ce-a856-4057-beac-cea868af222d@8639.org
+URL:https://roulette.org/event/kiran-ahluwalia-rba/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251219T010000Z
+SUMMARY:Webber/Morris Big Band
+UID:e7ec5777-7dfa-4501-89b1-527fac6290a9@e7ec.org
+URL:https://roulette.org/event/webber-morris-big-band/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251030T000000Z
+SUMMARY:The Rise of the Novel Performs Carter\, Eisenberg\, Lewis\, and Lockwood
+UID:61c02da5-bb2f-4680-89fe-275a40b8beb6@61c0.org
+URL:https://roulette.org/event/the-rise-of-the-novel-performs-carter-eisenberg-lewis-and-lockwood/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251207T010000Z
+SUMMARY:Hamid Al-Saadi and Amir ElSaffar New Quartet featuring Tania Giannouli
+UID:d3e46f32-9ea8-476b-943f-0b5c2357f65e@d3e4.org
+URL:https://roulette.org/event/maqam-records-amir-elsaffar-quartet-hamid-al-saadi/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $30
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251014T000000Z
+SUMMARY:Natural Information Society (Album Release) // Kalia Vandever
+UID:22cbde83-9b4e-45d2-9474-e03eaa956edb@22cb.org
+URL:https://roulette.org/event/natural-information-society-kalia-vandever/
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251113T010000Z
+SUMMARY:The Music of Anthony Braxton: Concert and Reflections\, with Mary Halvorson and George Lewis
+UID:65c5fce9-4ffa-4e13-9364-6ff20a6582e6@65c5.org
+URL:https://roulette.org/event/the-music-of-anthony-braxton-with-mary-halvorson-and-george-lewis/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $20
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251205T010000Z
+SUMMARY:Interpretations: Sam Weinberg Trio // Ghost Ensemble
+UID:07720d1b-8e2a-4e6c-a7d5-d30bcee33cc0@0772.org
+URL:https://roulette.org/event/interpretations-sam-weinberg-trio-ghost-ensemble/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251028T000000Z
+SUMMARY:Mivos Quartet Album Release
+UID:bb39cbfb-a456-444d-b050-069fdc8b5587@bb39.org
+URL:https://roulette.org/event/mivos-quartet/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251123T010000Z
+SUMMARY:Music for Two Pianos: Jace Clayton’s The Julius Eastman Memorial Dinner
+UID:a46ea921-287f-46ce-a97f-3db3070b68ab@a46e.org
+URL:https://roulette.org/event/music-for-two-pianos-jace-clayton-julius-eastman/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251121T010000Z
+SUMMARY:Music for Two Pianos: Bob + Blue\, A Tribute to Robert Ashley and “Blue” Gene Tyranny
+UID:e52f0923-b983-4c2b-8990-d7f47cfc6fc8@e52f.org
+URL:https://roulette.org/event/music-for-two-pianos-bob-and-blue/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25 // $50 // $75
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251212T010000Z
+SUMMARY:A Concert to Benefit Roulette: Raven Chacon + John Dieterich + C. Spencer Yeh // Laura Ortman // gabby fluke-mogul // more eaze
+UID:fd33e810-4e3e-4d0a-baf7-ff79a7c8451c@fd33.org
+URL:https://roulette.org/event/benefit-concert-chacon-dieterich-yeh-ortman-eaze/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251106T010000Z
+SUMMARY:The Music of Anthony Braxton: Composition No. 101 // Syntactical Ghost Trance Music
+UID:7a7e8406-835a-4708-accc-4bdc560ec246@7a7e.org
+URL:https://roulette.org/event/the-music-of-anthony-braxton-101-gtm/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251208T010000Z
+SUMMARY:Sylvie Courvoisier with Mary Halvorson and Wadada Leo Smith
+UID:1657b590-cd08-433f-be85-a5fa6e3754f7@1657.org
+URL:https://roulette.org/event/sylvie-courvoisier-with-mary-halvorson-and-wadada-leo-smith/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251213T010000Z
+SUMMARY:Adam Rudolph’s Hu Vibrational: Vibe Ride
+UID:617d0413-9660-46f6-acb2-9665fc3eb37f@617d.org
+URL:https://roulette.org/event/adam-rudolph-hu-vibrational-vibe-ride/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $25
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251202T010000Z
+SUMMARY:Patricia Brennan: Of The Near and Far (Record Release Show)
+UID:96aaf028-c604-4c96-a69a-f2d81aa511ad@96aa.org
+URL:https://roulette.org/event/patricia-brennan-of-the-near-and-far-record-release-show/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $50 // $75 // $100
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251126T010000Z
+SUMMARY:A Concert to Benefit Roulette: IMPROV NIGHT ft. John Zorn\, Laurie Anderson\, Marc Ribot\, Ikue Mori\, and more
+UID:99800d66-9d60-4e7f-a5d3-5408c2c9ab86@9980.org
+URL:https://roulette.org/event/improv-night-benefit-for-roulette/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $35
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251026T000000Z
+SUMMARY:Le Vent du Nord: Music of Quebec (RBA)
+UID:cbb2d856-dacb-4ba8-886d-c5a54dd128f4@cbb2.org
+URL:https://roulette.org/event/le-vent-du-nord-music-of-quebec-rba/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tickets $35
+DURATION:PT2H
+LOCATION:Roulette Intermedium\, 509 Atlantic Ave\, Brooklyn\, NY
+DTSTART:20251031T000000Z
+SUMMARY:Mali Obomsawin Live Scores Sugarcane Screening
+UID:514d5e6e-7fc0-4249-bfb9-b694411a72fa@514d.org
+URL:https://roulette.org/event/mali-obomsawin-sugarcane/
 END:VEVENT
 END:VCALENDAR
